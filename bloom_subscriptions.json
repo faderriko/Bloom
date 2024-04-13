@@ -1,0 +1,45 @@
+{
+  "visibility": true,
+  "surveyPlans": [
+    {
+      "planName": "Free Account",
+      "dailySurvey": 1,
+      "monthlyIncome": 0,
+      "dailyIncome": 0,
+      "minimumWithdrawal": 300,
+      "earningPerSurvey": "40 - 50",
+      "price": "0"
+    },
+    {
+      "planName": "Business Basic",
+      "dailySurvey": 5,
+      "monthlyIncome": 12000,
+      "dailyIncome": 300,
+      "minimumWithdrawal": 100,
+      "earningPerSurvey": "50 - 100",
+      "price": "400"
+    },
+    {
+      "planName": "Business Premium",
+      "dailySurvey": 10,
+      "monthlyIncome": 20000,
+      "dailyIncome": 600,
+      "minimumWithdrawal": 100,
+      "earningPerSurvey": "50 - 100",
+      "price": "800"
+    },
+    {
+      "planName": "Business Expert",
+      "dailySurvey": 20,
+      "monthlyIncome": 40000,
+      "dailyIncome": 1200,
+      "minimumWithdrawal": 100,
+      "earningPerSurvey": "50 - 100",
+      "price": "1,600"
+    }
+  ],
+  "mpesaPaymentDetails": {
+    "tillName": "Flex Solutions Kenya",
+    "tillNumber": 9828195
+  },
+}
