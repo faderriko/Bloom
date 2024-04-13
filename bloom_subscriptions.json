@@ -7,35 +7,35 @@
       "monthlyIncome": 0,
       "dailyIncome": 0,
       "minimumWithdrawal": 300,
-      "earningPerSurvey": "40 - 50",
+      "earningPerSurvey": "1 - 5",
       "price": "0"
     },
     {
       "planName": "Business Basic",
       "dailySurvey": 5,
-      "monthlyIncome": 12000,
-      "dailyIncome": 300,
+      "monthlyIncome": 120,
+      "dailyIncome": 3,
       "minimumWithdrawal": 100,
-      "earningPerSurvey": "50 - 100",
-      "price": "400"
+      "earningPerSurvey": "3 - 10",
+      "price": "7"
     },
     {
       "planName": "Business Premium",
       "dailySurvey": 10,
-      "monthlyIncome": 20000,
-      "dailyIncome": 600,
+      "monthlyIncome": 200,
+      "dailyIncome": 6,
       "minimumWithdrawal": 100,
-      "earningPerSurvey": "50 - 100",
-      "price": "800"
+      "earningPerSurvey": "3 - 10",
+      "price": "14"
     },
     {
       "planName": "Business Expert",
       "dailySurvey": 20,
-      "monthlyIncome": 40000,
-      "dailyIncome": 1200,
+      "monthlyIncome": 400,
+      "dailyIncome": 12,
       "minimumWithdrawal": 100,
-      "earningPerSurvey": "50 - 100",
-      "price": "1,600"
+      "earningPerSurvey": "3 - 10",
+      "price": "28"
     }
   ],
   "mpesaPaymentDetails": {
