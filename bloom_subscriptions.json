@@ -3,6 +3,7 @@
   "surveyPlans": [
     {
       "planName": "Free Account",
+      "productID": "free_account",
       "dailySurvey": 1,
       "monthlyIncome": 0,
       "dailyIncome": 0,
@@ -12,6 +13,7 @@
     },
     {
       "planName": "Business Basic",
+      "productID": "business_basic",
       "dailySurvey": 5,
       "monthlyIncome": 120,
       "dailyIncome": 3,
@@ -21,6 +23,7 @@
     },
     {
       "planName": "Business Premium",
+      "productID": "business_premium",
       "dailySurvey": 10,
       "monthlyIncome": 200,
       "dailyIncome": 6,
@@ -30,6 +33,7 @@
     },
     {
       "planName": "Business Expert",
+      "productID": "business_expert",
       "dailySurvey": 20,
       "monthlyIncome": 400,
       "dailyIncome": 12,
