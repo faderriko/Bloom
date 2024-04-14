@@ -3,9 +3,9 @@
   "surveys": [
     {
       "surveyId": "1",
-      "surveyCategory": "Welcome to Kua",
+      "surveyCategory": "Welcome to Bloom",
       "surveyPaid": false,
-      "surveyAmount": 70,
+      "surveyAmount": 5,
       "surveyQuestions": [
         {
           "surveyQuestion": "How did you hear about us?",
@@ -27,7 +27,7 @@
           ]
         },
         {
-          "surveyQuestion": "Kua allows you to earn money from every survey. You will receive your payment when you submit your survey.",
+          "surveyQuestion": "Bloom allows you to earn money from every survey. You will receive your payment when you submit your survey.",
           "surveyType": 1,
           "surveyAnswers": [
             "Looks Good",
@@ -66,308 +66,688 @@
       ]
     },
     {
-      "surveyId": "DU6LAI3GJK",
+      "surveyId": "ZU0LAI6GJK",
       "surveyCategory": "Food",
       "surveyPaid": false,
-      "surveyAmount": 49,
+      "surveyAmount": 0.4,
       "surveyQuestions": [
-          {
-              "surveyQuestion": "How often do you eat?",
-              "surveyType": 1,
-              "surveyAnswers": [
-                  "Once a day",
-                  "Twice a day",
-                  "Thrice a day"
-              ]
-          },
-          {
-              "surveyQuestion": "Which cuisines do you enjoy? (Select all that apply)",
-              "surveyType": 3,
-              "surveyAnswers": [
-                  "African",
-                  "Italian",
-                  "Mexican",
-                  "Chinese",
-                  "Indian",
-                  "Japanese"
-              ]
-          },
-          {
-              "surveyQuestion": "What is your favorite comfort food?",
-              "surveyType": 2,
-              "surveyAnswers": []
-          },
-          {
-              "surveyQuestion": "Do you follow any specific diet? If yes, please specify.",
-              "surveyType": 1,
-              "surveyAnswers": [
-                  "Yes",
-                  "No"
-              ]
-          },
-          {
-              "surveyQuestion": "Which of the following snacks do you enjoy? (Select all that apply)",
-              "surveyType": 3,
-              "surveyAnswers": [
-                  "Chips",
-                  "Popcorn",
-                  "Fruit",
-                  "Nuts",
-                  "Chocolate"
-              ]
-          },
-          {
-              "surveyQuestion": "Which beverages do you prefer? (Select all that apply)",
-              "surveyType": 3,
-              "surveyAnswers": [
-                  "Coffee",
-                  "Tea",
-                  "Soda",
-                  "Water",
-                  "Juice"
-              ]
-          }
+        {
+          "surveyQuestion": "How often do you eat?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Once a day",
+            "Twice a day",
+            "Thrice a day"
+          ]
+        },
+        {
+          "surveyQuestion": "Which cuisines do you enjoy? (Select all that apply)",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "African",
+            "Italian",
+            "Mexican",
+            "Chinese",
+            "Indian",
+            "Japanese"
+          ]
+        },
+        {
+          "surveyQuestion": "What is your favorite comfort food?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Do you follow any specific diet? If yes, please specify.",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "surveyQuestion": "Which of the following snacks do you enjoy? (Select all that apply)",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Chips",
+            "Popcorn",
+            "Fruit",
+            "Nuts",
+            "Chocolate"
+          ]
+        },
+        {
+          "surveyQuestion": "Which beverages do you prefer? (Select all that apply)",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Coffee",
+            "Tea",
+            "Soda",
+            "Water",
+            "Juice"
+          ]
+        }
       ]
-  },
-  {
+    },
+    {
+      "surveyId": "DP6QKAI4GJX",
+      "surveyCategory": "Poverty",
+      "surveyPaid": true,
+      "surveyAmount": 4,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "Do you believe poverty is a major issue in your community?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "surveyQuestion": " Which of the following factors do you think contribute to poverty? (Select all that apply)",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Lack of education",
+            "Unemployment",
+            "Health issues",
+            "Government policies",
+            "Income inequality"
+          ]
+        },
+        {
+          "surveyQuestion": "In your opinion, what is the main cause of poverty?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Do you think the government is doing enough to address poverty?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Yes",
+            "No",
+            "Not Sure"
+          ]
+        },
+        {
+          "surveyQuestion": "Which of the following do you think would be most effective in reducing poverty? (Select all that apply)",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Job creation programs",
+            "Education initiatives",
+            "Social welfare programs",
+            "Tax reforms",
+            "Community development projects"
+          ]
+        },
+        {
+          "surveyQuestion": "Have you or someone you know experienced poverty firsthand? Please share your story.",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Do you think poverty is a cycle that is difficult to break?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "surveyQuestion": "Which of the following do you think are barriers to escaping poverty? (Select all that apply)",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Lack of access to education",
+            "Limited job opportunities",
+            "Discrimination",
+            "Health issues",
+            "Debt"
+          ]
+        },
+        {
+          "surveyQuestion": "What support or resources do you think would be most helpful for individuals living in poverty?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Which of the following do you think are consequences of poverty? (Select all that apply)",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Poor health outcomes",
+            "Limited access to education",
+            "Higher crime rates",
+            "Food insecurity",
+            "Homelessness"
+          ]
+        },
+        {
+          "surveyQuestion": "Do you think poverty is a result of individual choices or systemic issues?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Individual choices",
+            "Systemic issues",
+            "Both"
+          ]
+        },
+        {
+          "surveyQuestion": "Which of the following do you think are signs of progress in addressing poverty? (Select all that apply)",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Decrease in poverty rates",
+            "Increase in access to education",
+            "Expansion of social safety nets",
+            "Improved healthcare services",
+            "Job creation"
+          ]
+        },
+        {
+          "surveyQuestion": "What role do you think businesses and corporations should play in addressing poverty?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        }
+      ]
+    },
+    {
+      "surveyId": "TU4LAI9GJK",
+      "surveyCategory": "Violence",
+      "surveyPaid": false,
+      "surveyAmount": 2,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "Have you ever witnessed violence in your community?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you think are the main causes of violence?",
+          "surveyType": 3,
+          "surveyAnswers": [
+              "Poverty",
+              "Lack of education",
+              "Mental health issues",
+              "Gang activity"
+          ]
+        },
+        {
+          "surveyQuestion": "How has violence personally affected you?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Do you think media plays a role in promoting violence?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Yes",
+            "No",
+            "Not Sure"
+          ]
+        },
+        {
+          "surveyQuestion": "Which forms of violence concern you the most?",
+          "surveyType": 3,
+          "surveyAnswers": [
+              "Domestic violence",
+              "Gun violence",
+              "Bullying",
+              "Sexual assault"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you think can be done to prevent violence in communities?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Do you believe stricter gun control laws can help reduce violence?",
+          "surveyType": 1,
+          "surveyAnswers": [
+              "Yes",
+              "No",
+              "Not sure"
+          ]
+        },
+        {
+          "surveyQuestion": "Which resources do you think are most important in addressing violence?",
+          "surveyType": 3,
+          "surveyAnswers": [
+              "Counseling services",
+              "Community outreach programs",
+              "Law enforcement",
+              "Education programs"
+          ]
+        },
+        {
+          "surveyQuestion": "Have you ever been a victim of violence? If so, please share your experience.",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Do you think violent video games contribute to real-life violence?",
+          "surveyType": 1,
+          "surveyAnswers": [
+              "Yes",
+              "No",
+              "Not sure"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you think are the long-term effects of exposure to violence?",
+          "surveyType": 3,
+          "surveyAnswers": [
+              "PTSD",
+              "Depression",
+              "Anxiety",
+              "Substance abuse"
+          ]
+        },
+        {
+          "surveyQuestion": "How do you think society can better support victims of violence?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Do you believe violence is a learned behavior?",
+          "surveyType": 1,
+          "surveyAnswers": [
+              "Yes",
+              "No",
+              "Not sure"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you think are the barriers to reporting incidents of violence?",
+          "surveyType": 3,
+          "surveyAnswers": [
+              "Funding for anti-racism programs",
+              "Training on diversity and inclusion",
+              "Support for marginalized communities",
+              "Policy changes",
+              "Other"
+          ]
+        },
+        {
+          "surveyQuestion": "In your opinion, what role does gender play in experiences of violence?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Do you think education about conflict resolution can help reduce violence?",
+          "surveyType": 1,
+          "surveyAnswers": [
+              "Yes",
+              "No",
+              "Not sure"
+          ]
+        }
+      ]
+    },
+    {
       "surveyId": "RTCU8QFH2U",
       "surveyCategory": "Television",
       "surveyPaid": true,
-      "surveyAmount": 50,
+      "surveyAmount": 2,
       "surveyQuestions": [
-          {
-              "surveyQuestion": "How many hours do you watch TV per day?",
-              "surveyType": 1,
-              "surveyAnswers": [
-                  "Less than 1 hour",
-                  "1-2 hours",
-                  "3-4 hours",
-                  "More than 4 hours"
-              ]
-          },
-          {
-              "surveyQuestion": " Which genres of TV shows do you enjoy watching?",
-              "surveyType": 1,
-              "surveyAnswers": [
-                  "Comedy",
-                  "Drama",
-                  "Action",
-                  "Reality TV",
-                  "Documentary",
-                  "Cooking Shows"
-              ]
-          },
-          {
-              "surveyQuestion": "Do you prefer watching TV shows or movies?",
-              "surveyType": 1,
-              "surveyAnswers": [
-                  "TV shows",
-                  "Movies",
-                  "Both equally"
-              ]
-          },
-          {
-              "surveyQuestion": "Where do you usually watch TV?",
-              "surveyType": 1,
-              "surveyAnswers": [
-                  "Living room",
-                  "Bedroom",
-                  "Kitchen",
-                  "Outdoors",
-                  "Other"
-              ]
-          },
-          {
-              "surveyQuestion": "Which of the following snacks do you enjoy? (Select all that apply)",
-              "surveyType": 3,
-              "surveyAnswers": [
-                  "Chips",
-                  "Popcorn",
-                  "Fruit",
-                  "Nuts",
-                  "Chocolate"
-              ]
-          },
-          {
-              "surveyQuestion": "Do you watch TV alone or with others?",
-              "surveyType": 1,
-              "surveyAnswers": [
-                  "Alone",
-                  "With family",
-                  "With friends",
-                  "With partner"
-              ]
-          }
+        {
+          "surveyQuestion": "How many hours do you watch TV per day?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Less than 1 hour",
+            "1-2 hours",
+            "3-4 hours",
+            "More than 4 hours"
+          ]
+        },
+        {
+          "surveyQuestion": " Which genres of TV shows do you enjoy watching?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Comedy",
+            "Drama",
+            "Action",
+            "Reality TV",
+            "Documentary",
+            "Cooking Shows"
+          ]
+        },
+        {
+          "surveyQuestion": "Do you prefer watching TV shows or movies?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "TV shows",
+            "Movies",
+            "Both equally"
+          ]
+        },
+        {
+          "surveyQuestion": "Where do you usually watch TV?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Living room",
+            "Bedroom",
+            "Kitchen",
+            "Outdoors",
+            "Other"
+          ]
+        },
+        {
+          "surveyQuestion": "Which of the following snacks do you enjoy? (Select all that apply)",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Chips",
+            "Popcorn",
+            "Fruit",
+            "Nuts",
+            "Chocolate"
+          ]
+        },
+        {
+          "surveyQuestion": "Do you watch TV alone or with others?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Alone",
+            "With family",
+            "With friends",
+            "With partner"
+          ]
+        }
       ]
-  },
-  {
+    },
+    {
       "surveyId": "T88EP046T3",
       "surveyCategory": "Social Media",
       "surveyPaid": false,
-      "surveyAmount": 44,
+      "surveyAmount": 0.3,
       "surveyQuestions": [
-          {
-              "surveyQuestion": "How many hours do you spend on social media per day?",
-              "surveyType": 1,
-              "surveyAnswers": [
-                  "Less than 1 hour",
-                  "1-2 hours",
-                  "2-4 hours",
-                  "More than 4 hours"
-              ]
-          },
-          {
-              "surveyQuestion": "Which social media platforms do you use regularly?",
-              "surveyType": 1,
-              "surveyAnswers": [
-                  "Facebook",
-                  "Instagram",
-                  "Twitter",
-                  "Snapchat",
-                  "TikTok",
-                  "LinkedIn",
-                  "Pinterest",
-                  "Reddit"
-              ]
-          },
-          {
-              "surveyQuestion": "Do you think social media has a positive impact on society?",
-              "surveyType": 1,
-              "surveyAnswers": [
-                  "Yes",
-                  "No",
-                  "Not sure"
-              ]
-          },
-          {
-              "surveyQuestion": "What do you use social media for?",
-              "surveyType": 3,
-              "surveyAnswers": [
-                  "Connecting with friends/family",
-                  "Sharing photos/videos",
-                  "Reading news",
-                  "Entertainment",
-                  "Networking",
-                  "Promoting business"
-              ]
-          },
-          {
-              "surveyQuestion": "What is your favorite social media platform and why?",
-              "surveyType": 2,
-              "surveyAnswers": []
-          },
-          {
-              "surveyQuestion": "Have you ever been a victim of cyberbullying on social media?",
-              "surveyType": 1,
-              "surveyAnswers": [
-                  "Yes",
-                  "No"
-              ]
-          },
-          {
-              "surveyQuestion": "How often do you post on social media?",
-              "surveyType": 1,
-              "surveyAnswers": [
-                  "Multiple times a day",
-                  "Once a day",
-                  "A few times a week",
-                  "Rarely",
-                  "Never"
-              ]
-          },
-          {
-              "surveyQuestion": "What type of content do you engage with the most on social media?",
-              "surveyType": 1,
-              "surveyAnswers": [
-                  "Videos",
-                  "Photos",
-                  "Text posts",
-                  "Memes",
-                  "Articles",
-                  "Live streams"
-              ]
-          }
+        {
+          "surveyQuestion": "How many hours do you spend on social media per day?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Less than 1 hour",
+            "1-2 hours",
+            "2-4 hours",
+            "More than 4 hours"
+          ]
+        },
+        {
+          "surveyQuestion": "Which social media platforms do you use regularly?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Facebook",
+            "Instagram",
+            "Twitter",
+            "Snapchat",
+            "TikTok",
+            "LinkedIn",
+            "Pinterest",
+            "Reddit"
+          ]
+        },
+        {
+          "surveyQuestion": "Do you think social media has a positive impact on society?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Yes",
+            "No",
+            "Not sure"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you use social media for?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Connecting with friends/family",
+            "Sharing photos/videos",
+            "Reading news",
+            "Entertainment",
+            "Networking",
+            "Promoting business"
+          ]
+        },
+        {
+          "surveyQuestion": "What is your favorite social media platform and why?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Have you ever been a victim of cyberbullying on social media?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "surveyQuestion": "How often do you post on social media?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Multiple times a day",
+            "Once a day",
+            "A few times a week",
+            "Rarely",
+            "Never"
+          ]
+        },
+        {
+          "surveyQuestion": "What type of content do you engage with the most on social media?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Videos",
+            "Photos",
+            "Text posts",
+            "Memes",
+            "Articles",
+            "Live streams"
+          ]
+        }
       ]
-  },
-  {
+    },
+    {
+      "surveyId": "UU8LAI0GOK",
+      "surveyCategory": "Racism",
+      "surveyPaid": true,
+      "surveyAmount": 6,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "Have you ever experienced racism?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "surveyQuestion": "In what areas of life do you think racism is most prevalent?",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Education",
+            "Employment",
+            "Housing",
+            "Healthcare",
+            "Law Enforcement"
+          ]
+        },
+        {
+          "surveyQuestion": "How do you define racism?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Do you think racism is a significant issue in society today?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "surveyQuestion": "What actions do you think can help combat racism?",
+          "surveyType": 3,
+          "surveyAnswers": [
+              "Education and awareness campaigns",
+              "Legislation and policies",
+              "Community engagement",
+              "Promoting diversity and inclusion",
+              "Other"
+          ]
+        },
+        {
+          "surveyQuestion": "Have you ever witnessed someone being racist towards another person? If so, please describe the situation",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Do you think racism is more prevalent in certain regions/countries?",
+          "surveyType": 1,
+          "surveyAnswers": [
+              "Yes",
+              "No",
+              "Not sure"
+          ]
+        },
+        {
+          "surveyQuestion": "What impact do you think racism has on individuals and communities?",
+          "surveyType": 3,
+          "surveyAnswers": [
+              "Mental health issues",
+              "Economic disparities",
+              "Social exclusion",
+              "Violence and hate crimes",
+              "Other"
+          ]
+        },
+        {
+          "surveyQuestion": "Have you ever been discriminated against based on your race? If so, please share your experience.",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Do you think the media plays a role in perpetuating racist stereotypes?",
+          "surveyType": 1,
+          "surveyAnswers": [
+              "Yes",
+              "No",
+              "Not sure"
+          ]
+        },
+        {
+          "surveyQuestion": "What steps can individuals take to address their own biases and prejudices?",
+          "surveyType": 3,
+          "surveyAnswers": [
+              "Educate themselves on diversity and inclusion",
+              "Engage in conversations about race",
+              "Challenge discriminatory behavior",
+              "Support anti-racism initiatives",
+              "Other"
+          ]
+        },
+        {
+          "surveyQuestion": "How do you think racism can be effectively addressed on a societal level?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Do you think racism is a learned behavior?",
+          "surveyType": 1,
+          "surveyAnswers": [
+              "Yes",
+              "No",
+              "Not sure"
+          ]
+        },
+        {
+          "surveyQuestion": "What resources do you think are needed to combat racism effectively?",
+          "surveyType": 3,
+          "surveyAnswers": [
+              "Funding for anti-racism programs",
+              "Training on diversity and inclusion",
+              "Support for marginalized communities",
+              "Policy changes",
+              "Other"
+          ]
+        }
+      ]
+    },
+    {
       "surveyId": "OEAGIFC92H",
       "surveyCategory": "Food",
       "surveyPaid": false,
-      "surveyAmount": 45,
+      "surveyAmount": 0.55,
       "surveyQuestions": [
-          {
-              "surveyQuestion": "Which of the following beverages do you enjoy? (Select all that apply)",
-              "surveyType": 3,
-              "surveyAnswers": [
-                  "Tea",
-                  "Soda",
-                  "Juice",
-                  "Water",
-                  "Coffee"
-              ]
-          },
-          {
-              "surveyQuestion": "Do you prefer hot or cold beverages?",
-              "surveyType": 1,
-              "surveyAnswers": [
-                  "Hot",
-                  "Cold"
-              ]
-          },
-          {
-              "surveyQuestion": "What is your go-to drink at a cafe?",
-              "surveyType": 2,
-              "surveyAnswers": []
-          },
-          {
-              "surveyQuestion": "How do you like your tea?",
-              "surveyType": 1,
-              "surveyAnswers": [
-                  "Black",
-                  "Green",
-                  "Herbal",
-                  "With Milk",
-                  "Iced"
-              ]
-          },
-          {
-              "surveyQuestion": "Which of the following alcoholic beverages do you enjoy? (Select all that apply)",
-              "surveyType": 1,
-              "surveyAnswers": [
-                  "Beer",
-                  "Wine",
-                  "Cocktails",
-                  "Whiskey",
-                  "Vodka"
-              ]
-          },
-          {
-              "surveyQuestion": "How do you like your water?",
-              "surveyType": 1,
-              "surveyAnswers": [
-                  "Still",
-                  "Sparkling",
-                  "Flavored"
-              ]
-          },
-          {
-              "surveyQuestion": "Which of the following soft drinks do you enjoy? (Select all that apply)",
-              "surveyType": 3,
-              "surveyAnswers": [
-                  "Cola",
-                  "Lemonade",
-                  "Orange Soda",
-                  "Root Beer",
-                  "Ginger Ale"
-              ]
-          }
+        {
+          "surveyQuestion": "Which of the following beverages do you enjoy? (Select all that apply)",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Tea",
+            "Soda",
+            "Juice",
+            "Water",
+            "Coffee"
+          ]
+        },
+        {
+          "surveyQuestion": "Do you prefer hot or cold beverages?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Hot",
+            "Cold"
+          ]
+        },
+        {
+          "surveyQuestion": "What is your go-to drink at a cafe?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "How do you like your tea?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Black",
+            "Green",
+            "Herbal",
+            "With Milk",
+            "Iced"
+          ]
+        },
+        {
+          "surveyQuestion": "Which of the following alcoholic beverages do you enjoy? (Select all that apply)",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Beer",
+            "Wine",
+            "Cocktails",
+            "Whiskey",
+            "Vodka"
+          ]
+        },
+        {
+          "surveyQuestion": "How do you like your water?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Still",
+            "Sparkling",
+            "Flavored"
+          ]
+        },
+        {
+          "surveyQuestion": "Which of the following soft drinks do you enjoy? (Select all that apply)",
+          "surveyType": 3,
+          "surveyAnswers": [
+            "Cola",
+            "Lemonade",
+            "Orange Soda",
+            "Root Beer",
+            "Ginger Ale"
+          ]
+        }
       ]
-  },
+    },
     {
       "surveyId": "T472SNCM16",
       "surveyCategory": "Home Buyer",
       "surveyPaid": false,
-      "surveyAmount": 44,
+      "surveyAmount": 0.67,
       "surveyQuestions": [
         {
           "surveyQuestion": "When would you like to buy your first home?",
@@ -420,7 +800,7 @@
       "surveyId": "ADL05KU9QX",
       "surveyCategory": "Social Media",
       "surveyPaid": false,
-      "surveyAmount": 43,
+      "surveyAmount": 0.53,
       "surveyQuestions": [
         {
           "surveyQuestion": "How often do you use Facebook?",
@@ -501,7 +881,7 @@
       "surveyId": "9J68HYA1O4",
       "surveyCategory": "Starting your day",
       "surveyPaid": false,
-      "surveyAmount": 44,
+      "surveyAmount": 0.54,
       "surveyQuestions": [
         {
           "surveyQuestion": "What time do you usually wake up?",
@@ -573,7 +953,7 @@
       "surveyId": "IO9CA1TH4M",
       "surveyCategory": "Cooking",
       "surveyPaid": true,
-      "surveyAmount": 52,
+      "surveyAmount": 0.62,
       "surveyQuestions": [
         {
           "surveyQuestion": "How often do you cook?",
@@ -665,7 +1045,7 @@
       "surveyId": "F27LDO510A",
       "surveyCategory": "Mental health",
       "surveyPaid": true,
-      "surveyAmount": 55,
+      "surveyAmount": 0.65,
       "surveyQuestions": [
         {
           "surveyQuestion": "How old are you",
@@ -718,8 +1098,8 @@
     {
       "surveyId": "R7VXJYT0HN",
       "surveyCategory": "Access to clean water",
-      "surveyPaid": true,
-      "surveyAmount": 58,
+      "surveyPaid": false,
+      "surveyAmount": 0.68,
       "surveyQuestions": [
         {
           "surveyQuestion": "What sources of water do you have access to?",
@@ -788,10 +1168,115 @@
       ]
     },
     {
+      "surveyId": "PI8LAI5HHH",
+      "surveyCategory": "Drug Abuse",
+      "surveyPaid": true,
+      "surveyAmount": 2.5,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "How old are you?",
+          "surveyType": 1,
+          "surveyAnswers": [
+              "Under 18",
+              "18-25",
+              "26-35",
+              "36-45",
+              "Over 45"
+          ]
+        },
+        {
+          "surveyQuestion": "Which of the following drugs have you used in the past year?",
+          "surveyType": 3,
+          "surveyAnswers": [
+              "Marijuana",
+              "Cocaine",
+              "Prescription drugs",
+              "Heroin",
+              "None"
+          ]
+        },
+        {
+          "surveyQuestion": "What are some reasons you think people turn to drugs?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Do you think drug abuse is a major issue in your community?",
+          "surveyType": 1,
+          "surveyAnswers": [
+            "Yes",
+            "No",
+            "Not Sure"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you think are the consequences of drug abuse?",
+          "surveyType": 3,
+          "surveyAnswers": [
+              "Health problems",
+              "Legal issues",
+              "Relationship problems",
+              "Loss of job",
+              "Others"
+          ]
+        },
+        {
+          "surveyQuestion": "Have you or someone you know been affected by drug abuse? Please share your story.",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Do you think enough resources are allocated to combat drug abuse?",
+          "surveyType": 1,
+          "surveyAnswers": [
+              "Yes",
+              "No",
+              "Not sure"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you think can be done to prevent drug abuse?",
+          "surveyType": 3,
+          "surveyAnswers": [
+              "Education programs",
+              "Access to mental health services",
+              "Stricter laws",
+              "Community support programs",
+              "Others"
+          ]
+        },
+        {
+          "surveyQuestion": "What challenges do you think exist in addressing drug abuse?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Do you think there is enough awareness about the dangers of drug abuse?",
+          "surveyType": 1,
+          "surveyAnswers": [
+              "Yes",
+              "No",
+              "Not sure"
+          ]
+        },
+        {
+          "surveyQuestion": "What support do you think is needed for individuals struggling with drug addiction?",
+          "surveyType": 3,
+          "surveyAnswers": [
+              "Rehabilitation programs",
+              "Counseling services",
+              "Support groups",
+              "Employment opportunities",
+              "Others"
+          ]
+        }
+      ]
+    },
+    {
       "surveyId": "VMLSA9BQ84",
       "surveyCategory": "Women Rights",
       "surveyPaid": true,
-      "surveyAmount": 53,
+      "surveyAmount": 0.63,
       "surveyQuestions": [
         {
           "surveyQuestion": "Which of the following women's rights issues are you most passionate about?",
@@ -852,7 +1337,7 @@
       "surveyId": "4WUM6Z72QP",
       "surveyCategory": "Political Stability",
       "surveyPaid": true,
-      "surveyAmount": 58,
+      "surveyAmount": 0.68,
       "surveyQuestions": [
         {
           "surveyQuestion": "Do you believe political stability is important for a country's development?",
@@ -941,7 +1426,7 @@
       "surveyId": "R9V5Q840JW",
       "surveyCategory": "Laptop Purchasing",
       "surveyPaid": true,
-      "surveyAmount": 52,
+      "surveyAmount": 0.62,
       "surveyQuestions": [
         {
           "surveyQuestion": "What is your occupation?",
@@ -1023,7 +1508,7 @@
       "surveyId": "8ULTHSYN47",
       "surveyCategory": "Healthcare access",
       "surveyPaid": true,
-      "surveyAmount": 56,
+      "surveyAmount": 0.66,
       "surveyQuestions": [
         {
           "surveyQuestion": "What is your ethnicity?",
@@ -1089,10 +1574,117 @@
       ]
     },
     {
+      "surveyId": "Y28HAI5MHR",
+      "surveyCategory": "Obesity",
+      "surveyPaid": false,
+      "surveyAmount": 1,
+      "surveyQuestions": [
+        {
+          "surveyQuestion": "How old are you?",
+          "surveyType": 1,
+          "surveyAnswers": [
+              "Under 18",
+              "18-25",
+              "26-35",
+              "36-45",
+              "Over 45"
+          ]
+        },
+        {
+          "surveyQuestion": "What do you like to eat?",
+          "surveyType": 3,
+          "surveyAnswers": [
+              "Fruits",
+              "Vegetables",
+              "Fast Food",
+              "Processed Foods",
+              "Home-cooked Meals"
+          ]
+        },
+        {
+          "surveyQuestion": "What is your current weight?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "How often do you exercise?",
+          "surveyType": 1,
+          "surveyAnswers": [
+              "Never",
+              "Rarely",
+              "Occasionally",
+              "Regularly",
+              "Daily"
+          ]
+        },
+        {
+          "surveyQuestion": "Which of the following factors do you think contribute to obesity?",
+          "surveyType": 3,
+          "surveyAnswers": [
+              "Genetics",
+              "Diet",
+              "Lack of Exercise",
+              "Stress",
+              "Medical Conditions"
+          ]
+        },
+        {
+          "surveyQuestion": "What challenges do you face in maintaining a healthy weight? ",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Do you have any existing medical conditions that may affect your weight?",
+          "surveyType": 1,
+          "surveyAnswers": [
+              "Yes",
+              "No",
+              "Not sure"
+          ]
+        },
+        {
+          "surveyQuestion": "Which of the following weight loss methods have you tried?",
+          "surveyType": 3,
+          "surveyAnswers": [
+              "Dieting",
+              "Exercise",
+              "Weight Loss Supplements",
+              "Surgery",
+              "None"
+          ]
+        },
+        {
+          "surveyQuestion": "What motivates you to make healthy lifestyle choices?",
+          "surveyType": 2,
+          "surveyAnswers": []
+        },
+        {
+          "surveyQuestion": "Do you think societal norms contribute to body image issues and obesity?",
+          "surveyType": 1,
+          "surveyAnswers": [
+              "Yes",
+              "No",
+              "Not sure"
+          ]
+        },
+        {
+          "surveyQuestion": "Which of the following emotional factors do you think are linked to obesity?",
+          "surveyType": 3,
+          "surveyAnswers": [
+              "Stress",
+              "Depression",
+              "Anxiety",
+              "Emotional Eating",
+              "Low Self-esteem"
+          ]
+        }
+      ]
+    },
+    {
       "surveyId": "cvdfr45",
       "surveyCategory": "Hotel Industry",
       "surveyPaid": true,
-      "surveyAmount": 57,
+      "surveyAmount": 0.67,
       "surveyQuestions": [
         {
           "surveyQuestion": "How often do you stay in hotels?",
@@ -1172,7 +1764,7 @@
       "surveyId": "vgdc21bh3m",
       "surveyCategory": "Shopping",
       "surveyPaid": true,
-      "surveyAmount": 57,
+      "surveyAmount": 0.67,
       "surveyQuestions": [
         {
           "surveyQuestion": "How often do you go shopping?",
@@ -1267,7 +1859,7 @@
       "surveyId": "ex1tdrvi9c",
       "surveyCategory": "Cars",
       "surveyPaid": true,
-      "surveyAmount": 60,
+      "surveyAmount": 0.70,
       "surveyQuestions": [
         {
           "surveyQuestion": "What is your favorite car brand?",
@@ -1384,7 +1976,7 @@
       "surveyId": "fq2maza2qa",
       "surveyCategory": "Television",
       "surveyPaid": true,
-      "surveyAmount": 56,
+      "surveyAmount": 0.66,
       "surveyQuestions": [
         {
           "surveyQuestion": "How many hours do you watch TV per day?",
@@ -1462,7 +2054,7 @@
       "surveyId": "aaoxj3x5qm",
       "surveyCategory": "Furniture",
       "surveyPaid": true,
-      "surveyAmount": 54,
+      "surveyAmount": 0.64,
       "surveyQuestions": [
         {
           "surveyQuestion": "How often do you buy furniture?",
@@ -1554,7 +2146,7 @@
       "surveyId": "4bpmr9t9a2",
       "surveyCategory": "Home Design",
       "surveyPaid": true,
-      "surveyAmount": 55,
+      "surveyAmount": 0.65,
       "surveyQuestions": [
         {
           "surveyQuestion": "What is your favorite room in a house?",
@@ -1654,7 +2246,7 @@
       "surveyId": "jem5c0zrad",
       "surveyCategory": "Hotel Industry",
       "surveyPaid": false,
-      "surveyAmount": 47,
+      "surveyAmount": 0.77,
       "surveyQuestions": [
         {
           "surveyQuestion": "How many years of farming experience do you have?",
