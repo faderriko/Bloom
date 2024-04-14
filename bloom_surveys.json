@@ -1581,7 +1581,7 @@
       "surveyQuestions": [
         {
           "surveyQuestion": "How old are you?",
-          "surveyType": 0.96,
+          "surveyType": 1,
           "surveyAnswers": [
               "Under 18",
               "18-25",
