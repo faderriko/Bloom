@@ -48,6 +48,7 @@
     "paymentsSystems": [
       {
         "name": "PayPal",
+        "method": "Email",
         "icon": "https://i.postimg.cc/TYmzBxwK/paypal.png",
         "chargePercentage": "1%",
         "minimumWithdrawal": "100",
@@ -55,6 +56,7 @@
       },
       {
         "name": "Payoneer",
+        "method": "ID / Name",
         "icon": "https://i.postimg.cc/nV68drH8/payoneer.png",
         "chargePercentage": "1%",
         "minimumWithdrawal": "100",
@@ -62,6 +64,7 @@
       },
       {
         "name": "Papara",
+        "method": "Email",
         "icon": "https://i.postimg.cc/v8hZztwK/Papara.png",
         "chargePercentage": "1%",
         "minimumWithdrawal": "100",
@@ -69,6 +72,7 @@
       },
       {
         "name": "Bank Wire Tranfer",
+        "method": "Account No",
         "icon": "https://i.postimg.cc/MT965zfL/bank.png",
         "chargePercentage": "1%",
         "minimumWithdrawal": "100",
