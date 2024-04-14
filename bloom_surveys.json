@@ -69,7 +69,7 @@
       "surveyId": "ZU0LAI6GJK",
       "surveyCategory": "Food",
       "surveyPaid": false,
-      "surveyAmount": 0.4,
+      "surveyAmount": 0.22,
       "surveyQuestions": [
         {
           "surveyQuestion": "How often do you eat?",
@@ -133,7 +133,7 @@
       "surveyId": "DP6QKAI4GJX",
       "surveyCategory": "Poverty",
       "surveyPaid": true,
-      "surveyAmount": 4,
+      "surveyAmount": 3,
       "surveyQuestions": [
         {
           "surveyQuestion": "Do you believe poverty is a major issue in your community?",
@@ -250,7 +250,7 @@
       "surveyId": "TU4LAI9GJK",
       "surveyCategory": "Violence",
       "surveyPaid": false,
-      "surveyAmount": 2,
+      "surveyAmount": 0.55,
       "surveyQuestions": [
         {
           "surveyQuestion": "Have you ever witnessed violence in your community?",
@@ -458,7 +458,7 @@
       "surveyId": "T88EP046T3",
       "surveyCategory": "Social Media",
       "surveyPaid": false,
-      "surveyAmount": 0.3,
+      "surveyAmount": 0.33,
       "surveyQuestions": [
         {
           "surveyQuestion": "How many hours do you spend on social media per day?",
@@ -1171,7 +1171,7 @@
       "surveyId": "PI8LAI5HHH",
       "surveyCategory": "Drug Abuse",
       "surveyPaid": true,
-      "surveyAmount": 2.5,
+      "surveyAmount": 2.50,
       "surveyQuestions": [
         {
           "surveyQuestion": "How old are you?",
@@ -1426,7 +1426,7 @@
       "surveyId": "R9V5Q840JW",
       "surveyCategory": "Laptop Purchasing",
       "surveyPaid": true,
-      "surveyAmount": 0.62,
+      "surveyAmount": 0.82,
       "surveyQuestions": [
         {
           "surveyQuestion": "What is your occupation?",
@@ -1581,7 +1581,7 @@
       "surveyQuestions": [
         {
           "surveyQuestion": "How old are you?",
-          "surveyType": 1,
+          "surveyType": 0.96,
           "surveyAnswers": [
               "Under 18",
               "18-25",
@@ -1684,7 +1684,7 @@
       "surveyId": "cvdfr45",
       "surveyCategory": "Hotel Industry",
       "surveyPaid": true,
-      "surveyAmount": 0.67,
+      "surveyAmount": 0.99,
       "surveyQuestions": [
         {
           "surveyQuestion": "How often do you stay in hotels?",
@@ -1764,7 +1764,7 @@
       "surveyId": "vgdc21bh3m",
       "surveyCategory": "Shopping",
       "surveyPaid": true,
-      "surveyAmount": 0.67,
+      "surveyAmount": 0.87,
       "surveyQuestions": [
         {
           "surveyQuestion": "How often do you go shopping?",
@@ -1976,7 +1976,7 @@
       "surveyId": "fq2maza2qa",
       "surveyCategory": "Television",
       "surveyPaid": true,
-      "surveyAmount": 0.66,
+      "surveyAmount": 0.85,
       "surveyQuestions": [
         {
           "surveyQuestion": "How many hours do you watch TV per day?",
@@ -2146,7 +2146,7 @@
       "surveyId": "4bpmr9t9a2",
       "surveyCategory": "Home Design",
       "surveyPaid": true,
-      "surveyAmount": 0.65,
+      "surveyAmount": 0.95,
       "surveyQuestions": [
         {
           "surveyQuestion": "What is your favorite room in a house?",
