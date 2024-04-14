@@ -42,6 +42,40 @@
       "price": "28"
     }
   ],
+  "paymentsDetails": {
+    "paymentDate": "",
+    "termsAndConditions": "",
+    "paymentsSystems": [
+      {
+        "name": "PayPal",
+        "icon": "",
+        "chargePercentage": "",
+        "minimumWithdrawal": "",
+        "privacyPolicy": ""
+      },
+      {
+        "name": "Payoneer",
+        "icon": "",
+        "chargePercentage": "",
+        "minimumWithdrawal": "",
+        "privacyPolicy": ""
+      },
+      {
+        "name": "Papara",
+        "icon": "",
+        "chargePercentage": "",
+        "minimumWithdrawal": "",
+        "privacyPolicy": ""
+      },
+      {
+        "name": "Bank Wire Tranfer",
+        "icon": "",
+        "chargePercentage": "",
+        "minimumWithdrawal": "",
+        "privacyPolicy": ""
+      }
+    ]
+  },
   "mpesaPaymentDetails": {
     "tillName": "Flex Solutions Kenya",
     "tillNumber": 9828195
