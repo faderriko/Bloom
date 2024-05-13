@@ -46,7 +46,34 @@
     "paymentDate": "",
     "termsAndConditions": "",
     "paymentsSystems": [
-      
+      {
+        "name": "PayPal",
+        "icon": "https://i.postimg.cc/TYmzBxwK/paypal.png",
+        "chargePercentage": "1%",
+        "minimumWithdrawal": "100",
+        "privacyPolicy": "https://www.paypal.com/us/legalhub/privacy-full"
+      },
+      {
+        "name": "Payoneer",
+        "icon": "https://i.postimg.cc/nV68drH8/payoneer.png",
+        "chargePercentage": "1%",
+        "minimumWithdrawal": "100",
+        "privacyPolicy": "https://www1.payoneer.com/vi/legal/privacy-policy/"
+      },
+      {
+        "name": "Papara",
+        "icon": "https://i.postimg.cc/v8hZztwK/Papara.png",
+        "chargePercentage": "1%",
+        "minimumWithdrawal": "100",
+        "privacyPolicy": "https://www.papara.com/en/privacy-notice"
+      },
+      {
+        "name": "Bank Wire Tranfer",
+        "icon": "https://i.postimg.cc/wjpCpry0/wire-transfer.png",
+        "chargePercentage": "1%",
+        "minimumWithdrawal": "100",
+        "privacyPolicy": ""
+      }
     ]
   },
   "mpesaPaymentDetails": {
