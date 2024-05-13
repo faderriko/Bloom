@@ -51,6 +51,7 @@
         "icon": "https://i.postimg.cc/TYmzBxwK/paypal.png",
         "chargePercentage": "1%",
         "minimumWithdrawal": "100",
+        "method":"Email",
         "privacyPolicy": "https://www.paypal.com/us/legalhub/privacy-full"
       },
       {
@@ -58,6 +59,7 @@
         "icon": "https://i.postimg.cc/nV68drH8/payoneer.png",
         "chargePercentage": "1%",
         "minimumWithdrawal": "100",
+        "method":"ACCOUNT ID",
         "privacyPolicy": "https://www1.payoneer.com/vi/legal/privacy-policy/"
       },
       {
@@ -65,6 +67,7 @@
         "icon": "https://i.postimg.cc/v8hZztwK/Papara.png",
         "chargePercentage": "1%",
         "minimumWithdrawal": "100",
+        "method":"ID",
         "privacyPolicy": "https://www.papara.com/en/privacy-notice"
       },
       {
@@ -72,6 +75,7 @@
         "icon": "https://i.postimg.cc/wjpCpry0/wire-transfer.png",
         "chargePercentage": "1%",
         "minimumWithdrawal": "100",
+        "method":"ACC NO",
         "privacyPolicy": ""
       }
     ]
